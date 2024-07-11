@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Leccion01CalculadoraIMC</string>
+    <string name="titulo">INDICE DE MASA CORPORAL</string>
+    <string name="peso">Ingrese su peso en Kg</string>
+    <string name="altura">Ingrese su altura en metros</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="imc">Su IMC es:</string>
+    <string name="categoria">Significa que tiene:</string>
+</resources>
